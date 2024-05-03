@@ -1,0 +1,125 @@
+{
+    "tasks": {
+        "help": {
+            "description": "Get help with the available commands",
+            "keywords": [
+                "help",
+                "help me",
+                "need help",
+                "help please",
+                "help me out",
+                "help me please",
+                "help me understand",
+                "help me with this",
+                "help me with that",
+                "help me with something",
+                "help me with everything",
+                "help me with anything",
+                "help me with all",
+                "help me with the commands",
+                "help me with the tasks",
+                "help me with the actions",
+                "help me with the functions"
+            ]
+        },
+        "turn_on_lights": {
+            "description": "Turn on the lights in the room",
+            "keywords": [
+                "turn lights on",
+                "turn on the lights",
+                "lights on",
+                "please turn on the lights",
+                "turn on the bulb",
+                "make the room brighter",
+                "illuminate the room",
+                "activate the luminosity",
+                "brighten up the space",
+                "ignite the illumination",
+                "light up the surroundings",
+                "brighten the ambiance",
+                "spark the radiance",
+                "switch on the lighting",
+                "shine the room",
+                "switch on lights",
+                "brighten room",
+                "power up lights",
+                "flip the switch",
+                "illuminate space",
+                "light up room"
+            ]
+        },
+        "play_music": {
+            "description": "Play music from a specified playlist or artist",
+            "keywords": [
+                "play song",
+                "play music",
+                "start playing music",
+                "play a song",
+                "put on some music",
+                "start the music",
+                "begin playing music",
+                "play some tunes",
+                "start a song",
+                "turn on music",
+                "initiate the melody",
+                "activate the tunes",
+                "commence the harmony",
+                "set off the rhythm",
+                "start the symphony",
+                "play the jams",
+                "start music",
+                "commence music",
+                "fire up tunes",
+                "initiate song",
+                "play audio"
+            ]
+        },
+        "set_alarm": {
+            "description": "Set an alarm for a specific time",
+            "keywords": [
+                "set alarm",
+                "set an alarm",
+                "wake me up",
+                "remind me",
+                "set a reminder",
+                "schedule an alarm",
+                "set a wake-up call",
+                "remind me later",
+                "alert me",
+                "notify me",
+                "ring the alarm",
+                "awaken me",
+                "stir me from slumber",
+                "rouse me from sleep",
+                "summon me",
+                "jolt me awake",
+                "ping me",
+                "set wake-up call",
+                "remind later",
+                "wake up call",
+                "set reminder",
+                "wake up alarm",
+                "set alarm clock",
+                "wake me",
+                "wake me later"
+            ]
+        },
+        "greet_user": {
+            "description": "Greet the user",
+            "keywords": [
+                "hello",
+                "hi",
+                "hey",
+                "howdy",
+                "greetings",
+                "salutations",
+                "good morning",
+                "good afternoon",
+                "good evening",
+                "sup",
+                "what's up",
+                "yo"
+            ]
+        }
+    }
+}
